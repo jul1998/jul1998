@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julián</h1>
 <h3 align="center">A passionate full stack developer who enjoys programming and creating solutions in form of software.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3"/>
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e47ksgqfrn63nm78pn3ugkaub9lfu35hpztvfpagbe7&rid=giphy.gif&ct=g"/>
 
 - 🔭 I’m currently working on **an eCommerce project for my bootcamp at 4geeks**
 
