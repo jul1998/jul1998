@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Julián</h1>
 <h3 align="center">A passionate full stack developer who enjoys programming and creating solutions in form of software.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3"/>
+
 - 🔭 I’m currently working on **an eCommerce project for my bootcamp at 4geeks**
 
 - 🌱 I’m currently learning and improving in **Python, Flask, React, SQL, JS, etc.**
