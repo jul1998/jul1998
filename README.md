@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julián</h1>
-<h3 align="center">A passionate full stack developer who enjoys programming and creating solutions in form of softwaree.</h3>
+<h3 align="center">A passionate full stack developer who enjoys programming and creating solutions in form of software.</h3>
 
 - 🔭 I’m currently working on **an eCommerce project for my bootcamp at 4geeks**
 
