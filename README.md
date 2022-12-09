@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **web development projects that involves a lot of Python, Flask, React, JS, etc.**
 
-- 🤝 I’m looking for help with **Getting professional experience in this field.**
+- 🤝 I’m looking to get **professional experience in this field.**
 
 - 📫 How to reach me **jguevara321@gmail.com**
 
