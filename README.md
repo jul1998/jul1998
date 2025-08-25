@@ -7,9 +7,8 @@ I love turning raw datasets into valuable insights and building scalable solutio
 
 <h2>🔧 Technologies & Tools</h2>
 <ul>
-  <li><strong>Languages:</strong> Python, SQL</li>
-  <li><strong>Data Engineering:</strong> BigQuery, Spark, Airflow, ETL pipelines</li>
-  <li><strong>Databases:</strong> MSSQL, Oracle, Hadoop/Hive</li>
+  <li><strong>Languages:</strong> Python, SQL, JavaScript</li>
+  <li><strong>Data Engineering:</strong> BigQuery, Spark, ETL pipelines</li>
   <li><strong>Machine Learning:</strong> scikit-learn, Pandas, NumPy</li>
   <li><strong>Visualization:</strong> Tableau, Power BI, Google Data Studio</li>
 </ul>
@@ -23,7 +22,7 @@ I love turning raw datasets into valuable insights and building scalable solutio
   </li>
   <li>
     <strong>Amazon</strong> – Developed reporting systems for a 400+ member org, engineered ETL processes 
-    (reduced data processing time by 30%), and created Python scripts to scale data operations.
+    (reduced data processing time by 30%), saved more than 1 million dollars annually, and created Python scripts to scale data operations.
   </li>
 </ul>
 
@@ -35,7 +34,7 @@ I love turning raw datasets into valuable insights and building scalable solutio
 
 <h2>📫 Connect with Me</h2>
 <ul>
-  <li><a href="https://www.linkedin.com/in/your-link" target="_blank">LinkedIn</a></li>
+  <li><a href="https://www.linkedin.com/in/juli%C3%A1n-guevara/" target="_blank">LinkedIn</a></li>
   <li><a href="https://yourwebsite.com" target="_blank">Portfolio / Website</a></li>
   <li><a href="mailto:your@email.com">Email</a></li>
 </ul>
