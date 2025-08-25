@@ -35,8 +35,7 @@ I love turning raw datasets into valuable insights and building scalable solutio
 <h2>📫 Connect with Me</h2>
 <ul>
   <li><a href="https://www.linkedin.com/in/juli%C3%A1n-guevara/" target="_blank">LinkedIn</a></li>
-  <li><a href="https://yourwebsite.com" target="_blank">Portfolio / Website</a></li>
-  <li><a href="mailto:your@email.com">Email</a></li>
+  <li><a href="jguevara321@gmail.com">Email</a></li>
 </ul>
 
 <hr>
