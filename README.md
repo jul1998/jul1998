@@ -1,27 +1,45 @@
-<h1 align="center">Hi 👋, I'm Julián</h1>
-<h3 align="center">A passionate full stack developer who enjoys programming and creating solutions in form of software.</h3>
+<h1>👋 Hi, I'm Julian</h1>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e47ksgqfrn63nm78pn3ugkaub9lfu35hpztvfpagbe7&rid=giphy.gif&ct=g"/>
-
-- 🔭 I’m currently working on **an eCommerce project for my bootcamp at 4geeks**
-
-- 🌱 I’m currently learning and improving in **Python, Flask, React, SQL, JS, etc.**
-
-- 👯 I’m looking to collaborate on **web development projects that involves a lot of Python, Flask, React, JS, etc.**
-
-- 🤝 I’m looking to get **professional experience in this field.**
-
-- 📫 How to reach me **jguevara321@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/julián-guevara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julián-guevara" height="30" width="40" /></a>
-<a href="https://kaggle.com/julian1524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="julian1524" height="30" width="40" /></a>
+<p>
+I’m a <strong>Data Engineer</strong> with experience in <strong>data pipelines, machine learning, and process automation</strong>.  
+I love turning raw datasets into valuable insights and building scalable solutions that improve efficiency.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<h2>🔧 Technologies & Tools</h2>
+<ul>
+  <li><strong>Languages:</strong> Python, SQL</li>
+  <li><strong>Data Engineering:</strong> BigQuery, Spark, Airflow, ETL pipelines</li>
+  <li><strong>Databases:</strong> MSSQL, Oracle, Hadoop/Hive</li>
+  <li><strong>Machine Learning:</strong> scikit-learn, Pandas, NumPy</li>
+  <li><strong>Visualization:</strong> Tableau, Power BI, Google Data Studio</li>
+</ul>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jul1998&show_icons=true&locale=en&layout=compact" alt="jul1998" /></p>
+<h2>💼 Experience</h2>
+<ul>
+  <li>
+    <strong>Equifax</strong> – Built ML models with Python & BigQuery, automated manual workflows 
+    (cut processing time by ~40%), and presented an ML project to leadership in Atlanta 
+    as the sole developer.
+  </li>
+  <li>
+    <strong>Amazon</strong> – Developed reporting systems for a 400+ member org, engineered ETL processes 
+    (reduced data processing time by 30%), and created Python scripts to scale data operations.
+  </li>
+</ul>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jul1998&" alt="jul1998" /></p>
+<h2>🌱 Currently</h2>
+<ul>
+  <li>Working on ML projects focused on <strong>predicting customer behavior and process optimization</strong>.</li>
+  <li>Expanding skills in <strong>cloud data platforms</strong> and <strong>scalable ML systems</strong>.</li>
+</ul>
+
+<h2>📫 Connect with Me</h2>
+<ul>
+  <li><a href="https://www.linkedin.com/in/your-link" target="_blank">LinkedIn</a></li>
+  <li><a href="https://yourwebsite.com" target="_blank">Portfolio / Website</a></li>
+  <li><a href="mailto:your@email.com">Email</a></li>
+</ul>
+
+<hr>
+
+<p>✨ Always open to collaboration on <strong>data engineering, automation, and ML projects</strong>!</p>
